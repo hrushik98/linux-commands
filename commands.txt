@@ -1,0 +1,80 @@
+1. ls : lists all the available folders and files in the present directory
+Example usage: ls 
+
+2. pwd : [present working directory] : tells the name of the present directory the user is in.
+Example usage: pwd
+
+3. cd : [change directory] : changes the directory
+Example usage: cd <directory name>
+
+4. mkdir : [make directory] : creates a new directory
+Example usage: mkdir <directory name>
+
+5. rmdir : [remove directory] : removes a directory
+Example usage: rmdir <directory name>
+
+6. touch : creates a new file. Any file type like .html, .txt, .csv, .xslx, etc... can be created using this command
+Example usage: touch <file name>
+
+7. rm : removes a file
+Example usage: rm <file name>
+
+8. cp : copies a file
+Example usage: cp <file name> <destination file name>
+
+9. mv : moves a file
+Example usage: mv <file name> <destination file name>
+
+10. cat : displays the contents of a file
+Example usage: cat <file name>
+
+11. top : RAM and CPU usage of the system
+Example usage: top
+
+12. free -h : RAM usage of the system
+Example usage: free -h
+
+13. neofetch : displays the system information
+Example usage: neofetch
+
+14. wget : downloads a file from the internet
+Example usage: wget <file URL>
+
+15. nano : opens a file in the nano text editor
+Example usage: sudo nano <file name>
+
+16. reboot : restarts the system
+Example usage: reboot
+
+17. shutdown : shuts down the system
+Example usage: shutdown
+
+18. history : displays the history of the commands used
+Example usage: history
+
+19. clear : clears the terminal screen
+Example usage: clear
+
+20. htop : displays the system information in a more detailed manner
+Example usage: htop
+
+21. tree : displays the directory structure in a tree format
+Example usage: tree
+
+22. cd .. : moves one directory up
+Example usage: cd ..
+
+23. cd ~ : moves to the home directory
+Example usage: cd ~
+
+24. cowsay : displays a cow saying a message
+Example usage: cowsay <message>
+
+25. figlet : displays a message in a large font
+Example usage: figlet <message>
+
+26. clt + c : stops the current process
+Example usage: clt + c
+
+27. youtube-dl : downloads a video from youtube
+Example usage: youtube-dl <video URL>
