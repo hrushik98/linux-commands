@@ -10,8 +10,11 @@ Example usage: cd <directory name>
 4. mkdir : [make directory] : creates a new directory
 Example usage: mkdir <directory name>
 
-5. rmdir : [remove directory] : removes a directory
+5. rmdir : [remove directory] : removes a empty directory
 Example usage: rmdir <directory name>
+
+5.1 sudo rm -rf : remove non empty directory
+Example usage: sudo rm -rf <folder name>
 
 6. touch : creates a new file. Any file type like .html, .txt, .csv, .xslx, etc... can be created using this command
 Example usage: touch <file name>
