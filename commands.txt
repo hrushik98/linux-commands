@@ -20,10 +20,10 @@ Example usage: touch <file name>
 Example usage: rm <file name>
 
 8. cp : copies a file
-Example usage: cp <file name> <destination file name>
+Example usage: cp <file name> ~Desktop/<destination file name>
 
 9. mv : moves a file
-Example usage: mv <file name> <destination file name>
+Example usage: mv <file name> ~Desktop/<destination file name>
 
 10. cat : displays the contents of a file
 Example usage: cat <file name>
